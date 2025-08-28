@@ -8,7 +8,7 @@ https://edwarddonner.com
 https://cnn.com  
 https://anthropic.com  
 
-Screenshots below show outputs.  
+Screenshots below show a part of outputs.  
 A short summary for https://edwarddonner.com  
 <img width="1251" height="787" alt="image" src="https://github.com/user-attachments/assets/a14907f0-cb0b-4d6c-9c87-6d00638828b5" />    
 
