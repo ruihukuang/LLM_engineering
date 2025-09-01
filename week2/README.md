@@ -54,7 +54,7 @@ A tool could be used in LLM API calls in a Gradio UI.
 
 Highlight:  
 
-A function is used to get a ticket price to a destination city. This function is converted into a tool. This tool could be intergrate with LLM API calls in a Gradio UI. When a user asks a ticket price to a city, this UI could provide the price according to this function or tool. If this city is not specified in the function or tool, the UI could tell the truth.  
+A function is used to get a ticket price to a destination city. This function is converted into a tool. This tool could be intergrated with LLM API calls in a Gradio UI. When a user asks a ticket price to a city, this UI could provide the price according to this function or tool. If this city is not specified in the function or tool, the UI could tell the truth.  
 
 The screenshot below shows a part of outputs.  
 <img width="1461" height="1071" alt="image" src="https://github.com/user-attachments/assets/275a73fd-033d-4023-8ae6-ca4f49e5b438" />  
