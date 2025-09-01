@@ -1,6 +1,6 @@
 # Week 2  
 
-## lab 1  
+## Day 1  
 
 Context  
 Use the following models to create a light-hearted joke for an audience of Data Scientists with and without stream results.  
