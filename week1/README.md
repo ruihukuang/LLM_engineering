@@ -1,6 +1,6 @@
 # Week 1    
 
-## Lab 1      
+## Day 1      
 
 Context  
 Provide short summaries of the following websites using gpt-4o-mini.  
@@ -18,8 +18,16 @@ A short summary for https://cnn.com
 A short summary for https://anthropic.com  
 <img width="1299" height="530" alt="image" src="https://github.com/user-attachments/assets/457de455-ca26-455d-8046-d9c83feee355" />  
 
+## Day 2    
 
-## Lab 5  
+Context  
+Use llama3.2:1b on Ollama server to answer a question *Describe some of the business applications of Generative AI*.  
+
+A screenshot below shows a part of output.  
+<img width="2214" height="1035" alt="image" src="https://github.com/user-attachments/assets/4fbceb73-e928-4b43-8a45-5cba2224737a" />  
+
+
+## Day 5  
 
 Context 
 
