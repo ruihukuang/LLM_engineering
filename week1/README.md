@@ -21,6 +21,7 @@ A short summary for https://anthropic.com
 ## Day 2    
 
 Context  
+
 Use llama3.2:1b on Ollama server to answer a question *Describe some of the business applications of Generative AI*.  
 
 A screenshot below shows a part of output.  
