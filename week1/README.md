@@ -22,7 +22,8 @@ A short summary for https://anthropic.com
 
 Context  
 
-Use llama3.2:1b on Ollama server to answer a question *Describe some of the business applications of Generative AI*.  
+Use llama3.2:1b on a Ollama server to answer a question *Describe some of the business applications of Generative AI*.  
+Three methods are used to connect to a Ollama server including using OpenAI python library.  
 
 A screenshot below shows a part of outputs.  
 <img width="2214" height="1035" alt="image" src="https://github.com/user-attachments/assets/4fbceb73-e928-4b43-8a45-5cba2224737a" />  
