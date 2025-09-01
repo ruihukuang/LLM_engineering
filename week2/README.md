@@ -26,7 +26,7 @@ The screenshot below shows a part of conversations.
 
 Context  
 
-Use a simple function and functions related to LLM API calls with and without stream outputs in different Gradio UI.  
+Use a simple function and functions related to LLM API calls with and without stream outputs in different Gradio UI. It could generate outputs accourding to the fucntions.    
 
 Highlight:  
 
@@ -34,6 +34,31 @@ Enter a company name and a URL related to this company and select LLM models inc
 
 The screenshot below shows a part of outputs.    
 <img width="1390" height="998" alt="image" src="https://github.com/user-attachments/assets/5aea942c-66d5-4350-8615-e4e5365db6d1" />  
+
+
+## Day 3    
+
+Context  
+
+A Gradio UI could create a chat interface with history. It enables a new conversation to continue based on previous contexts from previous conversations.  
+
+The screenshot below shows a part of output.  
+<img width="1415" height="1183" alt="image" src="https://github.com/user-attachments/assets/db2701fd-bfbb-475e-8154-ceecf2bdcc20" />  
+
+
+## Day 4  
+
+Context  
+
+A tool could be used in LLM API calls in a Gradio UI.  
+
+Highlight:  
+
+A function is used to get a ticket price to a destination city. This function is converted into a tool. This tool could be intergrate with LLM API calls in a Gradio UI. When a user asks a ticket price to a city, this UI could provide the price according to this function or tool. If this city is not specified in the function or tool, the UI could tell the truth.  
+
+The screenshot below shows a part of output.  
+<img width="1461" height="1071" alt="image" src="https://github.com/user-attachments/assets/275a73fd-033d-4023-8ae6-ca4f49e5b438" />  
+
 
 
 
