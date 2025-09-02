@@ -57,13 +57,21 @@ Highlight:
 A function is used to get a ticket price to a destination city. This function is converted into a tool. This tool could be intergrated with LLM API calls in a Gradio UI. When a user asks a ticket price to a city, this UI could provide the price according to this function or tool. If this city is not specified in the function or tool, the UI could tell the truth.  
 
 The screenshot below shows a part of outputs.  
-<img width="1461" height="1071" alt="image" src="https://github.com/user-attachments/assets/275a73fd-033d-4023-8ae6-ca4f49e5b438" />  
+<img width="1461" height="1071" alt="image" src="https://github.com/user-attachments/assets/275a73fd-033d-4023-8ae6-ca4f49e5b438" /> 
 
 
+## Day 5    
+
+Context 
+
+Create a chatbox to enable users to ask about ticket prices for defined cities in the tools. The chatbox could provide pictures related to cities and read provided answers even though cities are not secified in the tool.  If cities are not specified in the tool, the chatbox will not provide any prices.  
+
+Screenshots below show outputs.  
 
 <img width="2076" height="906" alt="image" src="https://github.com/user-attachments/assets/43dd4b20-f9c9-44ee-8ec7-4bbc2960259e" />  
 
 
+<img width="2124" height="971" alt="image" src="https://github.com/user-attachments/assets/1cea3712-fed4-47b9-a79e-36c952065363" />  
 
 
 
