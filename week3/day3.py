@@ -88,7 +88,7 @@ STARCODER2_MODEL_NAME = "bigcode/starcoder2-3b"
 phi3_tokenizer = AutoTokenizer.from_pretrained(PHI3_MODEL_NAME)
 
 text = "I am excited to show Tokenizers in action to my LLM engineers"
-#print(tokenizer.encode(text))
+print(tokenizer.encode(text))
 print()
 tokens = phi3_tokenizer.encode(text)
 print(phi3_tokenizer.batch_decode(tokens))
@@ -98,20 +98,20 @@ messages = [
     {"role": "user", "content": "Tell a light-hearted joke for a room of Data Scientists"}
   ]
 
-#print(tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True))
+print(tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True))
 print()
 print(phi3_tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True))
 
 qwen2_tokenizer = AutoTokenizer.from_pretrained(QWEN2_MODEL_NAME)
 
 text = "I am excited to show Tokenizers in action to my LLM engineers"
-#print(tokenizer.encode(text))
+print(tokenizer.encode(text))
 print()
 print(phi3_tokenizer.encode(text))
 print()
 print(qwen2_tokenizer.encode(text))
 
-#print(tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True))
+print(tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True))
 print()
 print(phi3_tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True))
 print()
