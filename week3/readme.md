@@ -69,8 +69,8 @@ Context
 Use the following models to tokenize input messages and then to use system/user messages to ask these models to tell a light-heared joke for data scientists.  
 
 meta-llama/Meta-Llama-3.1-8B-Instruct  
-microsoft/Phi-3-mini-4k-instruct 
-google/gemma-2-2b-it 
+microsoft/Phi-3-mini-4k-instruct  
+google/gemma-2-2b-it  
 
 In addition, quantization Config enables deployment of larger models on smaller hardware, dramatically reducing infrastructure costs.    
 
