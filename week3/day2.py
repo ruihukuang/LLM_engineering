@@ -110,18 +110,18 @@ image = image_gen(prompt=text).images[0]
 image
 
 # Audio Generation
-from datasets import load_dataset
+# from datasets import load_dataset
 
-synthesiser = pipeline("text-to-speech", "microsoft/speecht5_tts", device='cuda')
+# synthesiser = pipeline("text-to-speech", "microsoft/speecht5_tts", device='cuda')
 
-embeddings_dataset = load_dataset("matthijs/cmu-arctic-xvectors", split="validation")
-speaker_embedding = torch.tensor(embeddings_dataset[7306]["xvector"]).unsqueeze(0)
+# embeddings_dataset = load_dataset("matthijs/cmu-arctic-xvectors", split="validation")
+# speaker_embedding = torch.tensor(embeddings_dataset[7306]["xvector"]).unsqueeze(0)
 
 
-speech = synthesiser("Hi to an artificial intelligence engineer, on the way to mastery!", forward_params={"speaker_embeddings": speaker_embedding})
+# speech = synthesiser("Hi to an artificial intelligence engineer, on the way to mastery!", forward_params={"speaker_embeddings": speaker_embedding})
 
-sf.write("speech.wav", speech["audio"], samplerate=speech["sampling_rate"])
-Audio("speech.wav")
+# sf.write("speech.wav", speech["audio"], samplerate=speech["sampling_rate"])
+# Audio("speech.wav") Dataset script does not work
 
 from transformers import pipeline
     import soundfile as sf
