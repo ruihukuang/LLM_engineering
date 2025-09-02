@@ -19,3 +19,21 @@ generating an audio file based on provided words
 
 Screenshots show outputs for these tasks.  
 
+
+
+## day 3  
+
+Context  
+
+Use the following models to tokenize input messages.    
+meta-llama/Meta-Llama-3.1-8B 
+meta-llama/Meta-Llama-3.1-8B-Instruct  
+microsoft/Phi-3-mini-4k-instruct  
+Qwen/Qwen2-7B-Instruct  
+bigcode/starcoder2-3b  
+
+
+## day 4  
+
+Context 
+
