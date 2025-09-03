@@ -89,6 +89,10 @@ A joke from google/gemma-2-2b-it
 
 Context 
 
+Use the Whisper OpenAI model to convert an audio file into texts, then use meta-llama/Meta-Llama-3.1-8B-Instruct model to summarize the texts to create minutes and stream back results and show in the markdown.  
+
+The screenshot below shows outputs.  
+
 <img width="1906" height="879" alt="image" src="https://github.com/user-attachments/assets/46c7302c-1632-412a-862e-708ae36461cb" />  
 
 
