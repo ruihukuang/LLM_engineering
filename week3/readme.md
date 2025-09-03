@@ -85,7 +85,11 @@ A joke from microsoft/Phi-3-mini-4k-instruct
 A joke from google/gemma-2-2b-it  
 <img width="1233" height="379" alt="image" src="https://github.com/user-attachments/assets/d7ab8ce9-748e-43fd-96fd-520d7ca22e9c" />  
 
+## day 5    
 
+Context 
+
+<img width="1906" height="879" alt="image" src="https://github.com/user-attachments/assets/46c7302c-1632-412a-862e-708ae36461cb" />  
 
 
 
