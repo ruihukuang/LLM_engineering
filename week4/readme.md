@@ -12,7 +12,13 @@
 
 ## lab 4  
 
+<img width="3220" height="2004" alt="image" src="https://github.com/user-attachments/assets/cf483669-0fb4-40a1-b929-ae1483b21bc1" />  
+
+
 <img width="2468" height="1000" alt="image" src="https://github.com/user-attachments/assets/94a80ef1-0e90-47ab-9618-f1c38fee0768" />  
+
+
+
 
 
 
