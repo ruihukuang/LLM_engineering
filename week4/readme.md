@@ -1,14 +1,19 @@
-# Week 4
+# Week 4  
 
 ## lab 3  
 
 Context  
 
+Use gpt-4o and claude-3-5-sonnet-20240620 to convert pre-defined python codes into C++ code in UI.  
 
+
+Screenshots below show outputs for models gpt-4o, claude-3-5-sonnet-20240620.  
+
+Outputs for gpt-4o  
 
 <img width="2616" height="1362" alt="image" src="https://github.com/user-attachments/assets/a4e0ee1d-8e7d-4d55-b17d-f77c14428829" />   
 
-
+Outputs for claude-3-5-sonnet-20240620 
 
 <img width="2616" height="1332" alt="image" src="https://github.com/user-attachments/assets/966c0702-7d7a-4483-b453-9656acc629db" />
 
@@ -18,7 +23,12 @@ Context
 
 Context  
 
-Based on codes in the lab 3, add features into UI and a model Qwen/CodeQwen1.5-7B-Chat is added.  
+Based on codes in the lab 3, add features into UI.  
+
+Extra features include:  
+1 A model Qwen/CodeQwen1.5-7B-Chat is added.    
+2 Run python codes to show results and running time.  
+3 Run C++ codes to show results and running time.    
 
 Screenshots below show outputs for models gpt-4o, claude-3-5-sonnet-20240620 and Qwen/CodeQwen1.5-7B-Chat.
 
