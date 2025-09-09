@@ -6,4 +6,14 @@
 
 
 
-<img width="2616" height="1332" alt="image" src="https://github.com/user-attachments/assets/966c0702-7d7a-4483-b453-9656acc629db" />  
+<img width="2616" height="1332" alt="image" src="https://github.com/user-attachments/assets/966c0702-7d7a-4483-b453-9656acc629db" />
+
+
+
+## lab 4  
+
+<img width="2386" height="1190" alt="image" src="https://github.com/user-attachments/assets/03b8fb24-3609-4b8e-bfa2-825abde262f7" />  
+
+
+
+
