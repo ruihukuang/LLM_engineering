@@ -1,6 +1,6 @@
 # Week 4  
 
-## lab 3  
+## day 3  
 
 Context  
 
@@ -19,7 +19,7 @@ Outputs for claude-3-5-sonnet-20240620
 
 
 
-## lab 4  
+## day 4  
 
 Context  
 
