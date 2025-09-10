@@ -36,16 +36,18 @@ Screenshots below show outputs for some inputs.
 
 ## day 3  
 
-A RAG system plus vector embeddings using OpenAIEmbeddings(Auto-Encoding LLMs) is used to create a vectore store based on the following process:  
+A RAG system plus vector embeddings using OpenAIEmbeddings(Auto-Encoding LLMs) is used to create a vectore store chroma in LangChain based on the following process:  
 
 Use LangChain to build a knowledge base. Read in the documents in all folders. Add metadata to the documents. Break down the contents into overlapping chunks. Put the chunks of data into a Vector Store that associates a Vector Embedding with each chunk. 
 
-Visualize the Vector Store. Relavent info are automatically close to each other in the 2D or 3D graph.  
+In addition,  the vector Store is visualized. Relavent info are automatically close to each other in the 2D or 3D graph.  
 
 
 ## day 4   
 
-Create a RAG pipeline with a LLM model, a vector store and memory. THe LLM model is 
+Create a RAG pipeline with a LLM model, a vector store and memory. THe LLM model is gpt-4o-mini. The vector store is chroma in LangChain. A chatbox is based on this pipeline.  
+
+This search is not case sensitive. 
 
 
 
