@@ -20,7 +20,9 @@ This system is case sensitive and may not retrieve info when an input for exampl
 
 Context  
 
-Use LangChain to build a knowledge base. Read in the documents in all folders. Add metadata to the documents. Break down the contents into overlapping chunks.  
+This RAG system is built based on the following process:  
+
+Use LangChain to build a knowledge base. Read in the documents in all folders. Add metadata to the documents. Break down the contents into overlapping chunks. Use a function to find search words in chunks.   
 
 The search is also case sensitive. But it could generate outputs when a part of an input for example an employee name is not complete.  
 
