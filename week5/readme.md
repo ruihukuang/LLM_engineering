@@ -16,11 +16,11 @@ This system is case sensitive and may not retrieve info when an input for exampl
 
 
 
-## day 1  
+## day 2  
 
 Context  
 
-This RAG system is built based on the following process:  
+A RAG system is built based on the following process:  
 
 Use LangChain to build a knowledge base. Read in the documents in all folders. Add metadata to the documents. Break down the contents into overlapping chunks. Use a function to find search words in chunks.   
 
@@ -33,6 +33,19 @@ Screenshots below show outputs for some inputs.
 
 <img width="3082" height="806" alt="image" src="https://github.com/user-attachments/assets/17229109-17b1-4e75-ac02-5977bda4dcdc" />  
 
+
+## day 3  
+
+A RAG system plus vector embeddings using OpenAIEmbeddings(Auto-Encoding LLMs) is used to create a vectore store based on the following process:  
+
+Use LangChain to build a knowledge base. Read in the documents in all folders. Add metadata to the documents. Break down the contents into overlapping chunks. Put the chunks of data into a Vector Store that associates a Vector Embedding with each chunk. 
+
+Visualize the Vector Store. Relavent info are automatically close to each other in the 2D or 3D graph.  
+
+
+## day 4   
+
+Create a RAG pipeline with a LLM model, a vector store and memory. THe LLM model is 
 
 
 
