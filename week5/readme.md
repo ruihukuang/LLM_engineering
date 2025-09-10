@@ -4,7 +4,7 @@
 
 Context  
 
-Build a RAG system. There is a knowledge base of the company shared drive. The task is to build an AI knowledge worker. If a question is related to employees or products by name, add relevant details to the prompt.  
+Build a simple RAG system. There is a knowledge base of the company shared drive. The task is to build an AI knowledge worker. If a question is related to employees or products by name, add relevant details to the prompt.  
 
 The screenshot below shows UI of this system.  
 
