@@ -62,7 +62,7 @@ Screeshots show outputs.
 
 Context  
 
-Create a RAG pipeline with a LLM model, a vector store and memory. THe LLM model is gpt-4o-mini. The vector store is FAISS in LangChain. A chatbox is based on this pipeline.  
+Create a RAG pipeline with a LLM model, a vector store and memory. The LLM model is gpt-4o-mini. The vector store is FAISS in LangChain. A chatbox is based on this pipeline.  
 
 This search is not case sensitive and could generate outputs when a part of an input for example an employee name is not complete. It also could provide outputs when an input is misspelled. But it could not provide outputs when an input partically matches info in the chunks. It could not provide hints for relevant info when it does not know an answer.  
 
