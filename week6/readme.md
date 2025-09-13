@@ -29,7 +29,7 @@ word2vec plus Random Forest regression performs the best among all models, gener
 
 Context  
 
-Use a file test.pkl and frontier models to estimate prices and compare estimated prices and acutal prices to calculate average absolute predition error in terms of price differences. 
+Use a file test.pkl and frontier models to estimate prices and compare estimated prices and acutal prices to calculate average absolute predition error in terms of price differences.   
 The frontier models include Claude, gpt-40-mini, and gpt-40. 
 gpt-40 performs the best among all frontier and traditional machine learning models, generating the smallest predition price error $76 dollars.  
 
