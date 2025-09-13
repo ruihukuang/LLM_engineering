@@ -5,7 +5,7 @@
 Context  
 
 Retrieve data from McAuley-Lab/Amazon-Reviews-2023 in hugging face related to Appliances. It has a title, a description, features,details and price for each item.  
-To enable this dataset to have sufficient info to estimate price for each item and make training a model more efficiently, the text in this dataset is truncated to fit within around 180 tokens for each item.  
+To enable this dataset to have sufficient info to estimate price for each item and make training a model more efficiently, the text in this dataset is truncated to fit within around 180 tokens for each item. This tokenizing process is using meta-llama/Meta-Llama-3.1-8B.  
 
 
 ## day 2   
@@ -38,7 +38,9 @@ gpt-40 performs the best among all frontier and traditional machine learning mod
 
 Context  
 
-Select 200 records from a file train.pkl to create a train dataset in a file train.pkl and select 50 records from a file test.pkl to create a test dataset.  
-
+Select 200 records from a file train.pkl to create a train and validation dataset in a file train.pkl.  
+Convert these datasets into JSONL format and upload them to OPEN AI to do train runs. The model used for training is gpt-4o-mini-2024-07-18.  
+Use Weights and Biases,a free platform for monitoring training runs.  
+This fine tuned model does not perform better than the frontier model gpt-40, generating the smallest predition price error $102 dollars. 
 
 
