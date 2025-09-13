@@ -20,5 +20,19 @@ more balanced among items. Break down this sample dataset into a training and te
 
 Context  
 
-Use files train.pkl and test.pkl to train tranditonal machine models and compare estimated prices and acutal prices to calculate average absolute predition error in terms of price differences.  
-The tranditional models include 
+Use files train.pkl and test.pkl to train tranditonal machine models and compare estimated prices and acutal prices to calculate average absolute predition error in terms of price differences.    
+The tranditional models include Linear Regression, a Bag of Words model plus Linear Regression, word2vec plus Linear Regression, word2vec plus Linear SVR
+and word2vec plus Random Forest regression.  
+word2vec plus Random Forest regression performs the best among all models, generating the smallest predition price error $97 dollars.  
+
+## day 4  
+
+Context  
+
+Use the fiile test.pkl and frontier models to estimate prices and compare estimated prices and acutal prices to calculate average absolute predition error in terms of price differences. 
+The frontier models include Claude, gpt-40-mini, and gpt-40. 
+gpt-40 performs the best among all frontier and traditional machine learning models, generating the smallest predition price error $76 dollars.  
+
+
+
+
