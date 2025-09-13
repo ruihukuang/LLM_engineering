@@ -20,5 +20,5 @@ more balanced among items. Break down this sample dataset into a training and te
 
 Context  
 
-Use files train.pkl and test.pkl to train tranditonal machine models and compare estimated prices and acutal prices to calculate price differences. 
-The trandition models include 
+Use files train.pkl and test.pkl to train tranditonal machine models and compare estimated prices and acutal prices to calculate average absolute predition error in terms of price differences.  
+The tranditional models include 
