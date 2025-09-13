@@ -42,5 +42,12 @@ Select 200 records from a file train.pkl to create a train and validation datase
 Convert these datasets into JSONL format and upload them to OPEN AI to do train runs. The model used for training is gpt-4o-mini-2024-07-18.  
 Use Weights and Biases,a free platform for monitoring training runs.  
 This fine tuned model does not perform better than the frontier model gpt-40, generating the smallest predition price error $102 dollars. 
+Resources ussages in train runs from Weights and Biases   
+<img width="3644" height="1360" alt="image" src="https://github.com/user-attachments/assets/4465227e-1ef0-4fbc-a6d4-028a593cff72" />  
+Performance metrics in train runs from Weights and Biases  
+<img width="3688" height="1292" alt="image" src="https://github.com/user-attachments/assets/aaac6709-3dd4-4f81-bf56-960b47c4bbe5" />  
+
+
+
 
 
