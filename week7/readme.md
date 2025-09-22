@@ -23,6 +23,7 @@ Load data from Hugging face. The data is about products description and their pr
 the tokenizing input data, use a base model meta-llama/Meta-Llama-3.1-8B using quantizion configuration of 4-bits to predict product price. Compare it with actual data.  
 
 The predict error is $396 shown in the screenshot below.  
+
 <img width="2006" height="184" alt="image" src="https://github.com/user-attachments/assets/74e4344c-7c5b-42d0-8c52-b360edeaf675" />  
 
 
@@ -36,6 +37,13 @@ Use Weights & Biases to monitor training process in terms of system shown in the
 
 <img width="3698" height="1250" alt="image" src="https://github.com/user-attachments/assets/66a11476-27ea-48ff-ab3d-a33040d3d21a" />  
 
+## day 5   
+
+Load data from Hugging face. The data is about products description and their price. Use a base model meta-llama/Meta-Llama-3.1-8B and tokenizers to transform input test data about product description. Based on the tokenizing input data, use fine tuned_model from labs in day 3 and 4 to predict a product price from a weighted average of the top 3 predicted prices. Compare it with actual data.  
+
+The predict error is $47 shown in the screenshot below. 
+
+<img width="1912" height="194" alt="image" src="https://github.com/user-attachments/assets/d79c5123-35e5-4869-92f0-2b555d791eb9" />  
 
 
 
