@@ -30,4 +30,13 @@ The predict error is $396 shown in the screenshot below.
 
 Context  
 
+Load data from Hugging face. The data is about products description and their price. Use a base model meta-llama/Meta-Llama-3.1-8B and tokenizers to transform input test data about product description. Based on the tokenizing input data, a base model meta-llama/Meta-Llama-3.1-8B using quantizion configuration of 4-bits, train a model and load it to hugging face. Specify the configuration parameters for LoRA and also general configuration parameters for training.  
+
+Use Weights & Biases to monitor training process in terms of system shown in the screenshot below.  
+
+<img width="3698" height="1250" alt="image" src="https://github.com/user-attachments/assets/66a11476-27ea-48ff-ab3d-a33040d3d21a" />  
+
+
+
+
 
