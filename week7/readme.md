@@ -3,7 +3,7 @@
 ## day 1  
 
 Context  
-Quantize a base model to 8-bits and 4-bits when you load it from Hugging face. Memeory for a base model is reduced. 
+Quantize a base model to 8-bits and 4-bits when you load it from Hugging face. Memory for a base model is reduced. 
 
 Memory for a base model with 8-bits  
 
