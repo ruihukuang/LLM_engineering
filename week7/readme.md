@@ -39,7 +39,7 @@ Use Weights & Biases to monitor training process in terms of system shown in the
 
 ## day 5   
 
-Load data from Hugging face. The data is about products description and their price. Use a base model meta-llama/Meta-Llama-3.1-8B and tokenizers to transform input test data about product description. Based on the tokenizing input data, use fine tuned_model from labs in day 3 and 4 to predict a product price from a weighted average of the top 3 predicted prices. Compare it with actual data.  
+Load data from Hugging face. The data is about products description and their price. Use a base model meta-llama/Meta-Llama-3.1-8B and tokenizers to transform input test data about product description. Based on the tokenizing input data, use a fine tuned model from labs in day 3 and 4 to predict a product price from a weighted average of the top 3 predicted prices. Compare it with actual data.  
 
 The predict error is $47 shown in the screenshot below. 
 
