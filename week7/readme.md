@@ -3,6 +3,7 @@
 ## day 1  
 
 Context  
+
 Quantize a base model to 8-bits and 4-bits when you load it from Hugging face. Memory for a base model is reduced. 
 
 Memory for a base model with 8-bits  
@@ -12,4 +13,21 @@ Memory for a base model with 8-bits
 Memory for a base model with 4-bits  
 
 <img width="1640" height="150" alt="image" src="https://github.com/user-attachments/assets/51d619cc-73bc-4d1e-890c-9e73855e2d09" />  
+
+
+## day 2  
+
+Context  
+
+Load data from Hugging face. The data is about products description and their price. Use a base model meta-llama/Meta-Llama-3.1-8B and tokenizers to transform input test data about product description. Based on
+the tokenizing input data, use a base model meta-llama/Meta-Llama-3.1-8B to predict product price. Compare it with actual data.  
+
+The predict error is $396 shown in the screenshot below.  
+<img width="2006" height="184" alt="image" src="https://github.com/user-attachments/assets/74e4344c-7c5b-42d0-8c52-b360edeaf675" />  
+
+
+## day 3  and 4 
+
+Context  
+
 
