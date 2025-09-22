@@ -20,7 +20,7 @@ Memory for a base model with 4-bits
 Context  
 
 Load data from Hugging face. The data is about products description and their price. Use a base model meta-llama/Meta-Llama-3.1-8B and tokenizers to transform input test data about product description. Based on
-the tokenizing input data, use a base model meta-llama/Meta-Llama-3.1-8B to predict product price. Compare it with actual data.  
+the tokenizing input data, use a base model meta-llama/Meta-Llama-3.1-8B using quantizion configuration of 4-bits to predict product price. Compare it with actual data.  
 
 The predict error is $396 shown in the screenshot below.  
 <img width="2006" height="184" alt="image" src="https://github.com/user-attachments/assets/74e4344c-7c5b-42d0-8c52-b360edeaf675" />  
