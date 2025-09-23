@@ -18,4 +18,7 @@ The screenshot below shows the app deployed in the modal platform.
 
 ## day 5  
 
-<img width="3808" height="1306" alt="image" src="https://github.com/user-attachments/assets/e0811981-577c-4b01-ae2a-51b72a236797" />  
+<img width="3808" height="1306" alt="image" src="https://github.com/user-attachments/assets/e0811981-577c-4b01-ae2a-51b72a236797" />    
+
+<img width="3786" height="2032" alt="image" src="https://github.com/user-attachments/assets/154f9cf5-bf9b-4ac8-8b0f-a15a3f4ffd35" />  
+
